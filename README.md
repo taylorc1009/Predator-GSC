@@ -25,7 +25,7 @@ You will need to inject the GSC files into the following directories:
 /maps
   |--- /mp
         |--- _development_dvars.gsc
-        |--- _ambient_package.gsc
+        |--- _ambientpackage.gsc
         |--- /gametypes
                   |--- _rank.gsc
 ```
