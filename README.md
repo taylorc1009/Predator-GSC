@@ -15,3 +15,19 @@ who do have malicious intent (such as DDoS-ing). Although, whatever actions are 
 through the means of any of its features, are all of their own accord - I do not take resposibility for what
 you do to other players in the game without their consent.
 ```
+
+In order to use this menu, you will need to, first, download this source code and compile it for your desired platform. Once you have the project compiled, you will need to inject it into the game at run time. There are a few compilers and injectors out there in the community, some are built into the same application (I, personally, used GSC Studio). You will need to inject the GSC files into the following directories:
+```
+/maps
+  |--- /mp
+        |--- _development_dvars.gsc
+        |--- _ambient_package.gsc
+        |--- /gametypes
+                 |--- _rank.gsc
+```
+
+There are 2 different visual layouts: Original and Old School Edition. Here are videos of both editions in action (credit to the uploaders):
+
+[![Predator Original v6.7](https://i.ytimg.com/vi/zrgAvpEgtsA/maxresdefault.jpg)](https://www.youtube.com/watch?v=zrgAvpEgtsA)
+
+[![Predator Old School v6.2](https://i.ytimg.com/vi/3rBdwo2VSgY/maxresdefault.jpg)](https://www.youtube.com/watch?v=3rBdwo2VSgY)
