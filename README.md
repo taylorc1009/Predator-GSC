@@ -20,6 +20,11 @@ take resposibility for what you do to other players in the game without their co
 
 In order to use this menu, you will need to, first, download this source code and compile it for your desired platform. Once you have the project compiled, you will need to inject it into the game at run time. There are a few compilers and injectors out there in the community, some are built into the same application (I, personally, used GSC Studio).
 
+Instead, if you wish to download a pre-compiled version, you can get them here:
+* [Predator v6.7 | from MediaFire](https://www.mediafire.com/file/z2nokjyyzf9gn75/Predator_v6.7.rar/file)
+* [Predator Oldschool Edition | from MediaFire](https://www.mediafire.com/file/oc36np7opuk1rng/Predator_Oldschool_Edition.rar/file)
+* Here's the raw source code also: [Predator v6.7 Original OE Source | from MediaFire](https://www.mediafire.com/file/4jhueyepb6phuxs/Predator_v6.7_Original_OE_Source.rar/file)
+
 There are two different visual layouts: Original and Old School Edition. Inject the one that you wish to use - both are compiled as `_development_dvars.gsc`, but you can only use one at a time. Images/videos of these in action can be found on the web.
 
 You will need to inject the GSC files into the following directories:
