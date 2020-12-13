@@ -26,7 +26,7 @@ In order to use this menu, you will need to, first, download this source code an
                  |--- _rank.gsc
 ```
 
-There are 2 different visual layouts: Original and Old School Edition. Here are videos of both editions in action (credit to the uploaders):
+There are two different visual layouts: Original and Old School Edition. Inject the one that you wish to use - both are compiled as `_development_dvars.gsc`, but you can only use one. Here are videos of both editions in action (credit to the uploaders):
 
 [![Predator Original v6.7](https://i.ytimg.com/vi/zrgAvpEgtsA/maxresdefault.jpg)](https://www.youtube.com/watch?v=zrgAvpEgtsA)
 
