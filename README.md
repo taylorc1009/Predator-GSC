@@ -5,9 +5,9 @@ This project was not actively commited to GitHub, it was only commitd post-compl
 
 __Disclaimer__
 ```
-This project is a modification intended for use in the video game Call of Duty®: Black Ops II. With that
-being said, as all of the rights of the original game are reserved by the owners, the rights of this
-project are also granted to said owners.
+This non-profit project is a modification intended for use in the video game Call of Duty®: Black Ops II.
+With that being said, as all of the rights of the original game are reserved by the owners, the rights
+of this project are also granted to said owners.
 
 This project contains no code taken from the game and redistributed, nor was it created to inflict
 malicious intent upon the game. It has been created solely for recreational use. Any funcionality found
