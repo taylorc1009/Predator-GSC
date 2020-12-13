@@ -31,3 +31,6 @@ You will need to inject the GSC files into the following directories:
         |--- /gametypes
                   |--- _rank.gsc
 ```
+
+In-game screenshot (Original Base):
+![https://scoutmodding.weebly.com/uploads/7/1/9/8/71981699/maxresdefault_orig.jpg](https://scoutmodding.weebly.com/uploads/7/1/9/8/71981699/maxresdefault_orig.jpg)
