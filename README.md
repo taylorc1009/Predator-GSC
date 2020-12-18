@@ -18,7 +18,7 @@ users of this project, through the means of any of its features, are all of thei
 take resposibility for what you do to other players in the game without their consent.
 ```
 
-In order to use this menu, you will need to, first, download this source code and compile it for your desired platform. Once you have the project compiled, you will need to inject it into the game at run time. There are a few compilers and injectors out there in the community, some are built into the same application (I, personally, used GSC Studio).
+In order to use this menu, you will need to, first, download this source code and compile it for your desired platform. Once you have the project compiled, you will need to inject it into the game at run time. There are a few compilers and injectors out there in the community, some are built into the same application (I, personally, used [GSC Studio](https://www.mediafire.com/folder/4jp64m1x74kks/Black_Ops_2_-_GSC_Studio)).
 
 Instead, if you wish to download a pre-compiled version, you can get them here:
 * [Predator v6.7 | from MediaFire](https://www.mediafire.com/file/z2nokjyyzf9gn75/Predator_v6.7.rar/file)
