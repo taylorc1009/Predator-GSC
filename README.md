@@ -1,13 +1,13 @@
 # Predator v6.7
 A modification menu made for Call of Duty®: Black Ops II.
 
-This project was not actively commited to GitHub, it was only commitd post-completion. This is my first personal programming project and therefore probably not made to the best of my ability. The forum which this project used to be active, also containing further information, can be found [here](https://www.nextgenupdate.com/forums/black-ops-2-gsc-mods-scripts/843778-source-predator-v6-7-original-oldschool-base-non-host-end-game-blocker-1.html).
+This project was not actively commited to GitHub, it was only commited post-completion. This is my first personal programming project and therefore not made to the best of my ability. The forum which this project used to be active, also containing further information, can be found [here](https://www.nextgenupdate.com/forums/black-ops-2-gsc-mods-scripts/843778-source-predator-v6-7-original-oldschool-base-non-host-end-game-blocker-1.html).
 
 __Disclaimer__
 ```
 This non-profit project is a modification intended for use in the video game Call of Duty®: Black Ops II.
 With that being said, as all of the rights of the original game are reserved by the owners, the rights
-of this project are also granted to said owners.
+of this project are hereby granted to said owners.
 
 This project contains no code taken from the game and redistributed, nor was it created to inflict
 malicious intent upon the game. It has been created solely for recreational use. Any funcionality found
