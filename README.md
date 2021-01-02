@@ -37,5 +37,9 @@ You will need to inject the GSC files into the following directories:
                   |--- _rank.gsc
 ```
 
-In-game screenshot (Original Base):
-![https://scoutmodding.weebly.com/uploads/7/1/9/8/71981699/maxresdefault_orig.jpg](https://scoutmodding.weebly.com/uploads/7/1/9/8/71981699/maxresdefault_orig.jpg)
+In-game screenshots:
+Original Base | Old School Edition
+--- | ---
+![https://scoutmodding.weebly.com/uploads/7/1/9/8/71981699/maxresdefault_orig.jpg](https://scoutmodding.weebly.com/uploads/7/1/9/8/71981699/maxresdefault_orig.jpg) | ![https://cabconmodding.com/attachments/screenshot_3-png.843/](https://cabconmodding.com/attachments/screenshot_3-png.843/)
+
+
