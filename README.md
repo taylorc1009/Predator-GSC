@@ -20,10 +20,10 @@ has been created solely for recreational use.
 Any funcionality found within which may
 appear to be unjustifiable because of that
 statement, or even violate it and possibly be
-recognised as cruel to other players; they
-only exist for the purpose of protecting
-one's self and others from players who do
-have malicious intent (such as DDoS-ing).
+recognised as cruel to other players, only
+exist for the purpose of protecting one's
+self and others from players who do have
+malicious intent (such as DDoS-ing).
 Although, whatever actions are made by users
 of this project, through the means of any of
 its features, are all of their own accord - I
